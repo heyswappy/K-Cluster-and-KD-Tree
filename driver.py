@@ -1,6 +1,6 @@
 from point import point
 from kd_tree import kd_tree
-from myGraph import myGraph
+from graph import myGraph
         
 def driver1():
     obj = kd_tree(2)
